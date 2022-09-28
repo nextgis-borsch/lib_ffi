@@ -21,7 +21,7 @@
 ################################################################################
 
 cmake_minimum_required(VERSION 2.8.12)
-project(lib_ffi C)
+project(ffi C)
 
 # Some init settings
 set(CMAKE_COLOR_MAKEFILE ON)
